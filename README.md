@@ -1,6 +1,6 @@
 # React Quiz
 
-[View demo](http://mitchgavan.github.io/react-multi-choice-quiz/)
+[View demo](http://guillaumelauzier.github.io/react-multi-choice-quiz/)
 
 There's also an accompanying [tutorial blog post](https://mitchgavan.com/react-quiz/).
 
